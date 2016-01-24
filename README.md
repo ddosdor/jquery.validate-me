@@ -1,4 +1,4 @@
-## jquery.validae-me.js
+## jquery.validate-me.js
 
 This is jQuery plugin to validate form data. This is an early version, so it is proposed not to use it in a production environment.
 
